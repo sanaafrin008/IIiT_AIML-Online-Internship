@@ -1,4 +1,4 @@
-# Week 3 – YOLO Model Training
+# Week 5 Task 3 – YOLO Model Training
 
 ## Objective
 
